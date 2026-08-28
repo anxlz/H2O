@@ -1,0 +1,2639 @@
+[
+  {
+    "id": "flat-bench-press",
+    "name": "Flat Bench Press",
+    "category": "Chest",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/Flat bench press.jpg"
+  },
+  {
+    "id": "inclined-bench-press",
+    "name": "Inclined Bench Press",
+    "category": "Chest",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/Inclined bench press.jpg"
+  },
+  {
+    "id": "machine-chest-flies",
+    "name": "Machine Chest Flies",
+    "category": "Chest",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/Machine chest flies.jpg"
+  },
+  {
+    "id": "dumbbell-lateral-raise",
+    "name": "Dumbbell Lateral Raise",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/Dumbbell lateral raise.jpg"
+  },
+  {
+    "id": "machine-press",
+    "name": "Machine Press",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/Machine press.jpg"
+  },
+  {
+    "id": "machine-rear-deltoid-fly",
+    "name": "Machine Rear-Deltoid Fly",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/Machine rear-deltold fly.jpg"
+  },
+  {
+    "id": "overhead-rope",
+    "name": "Overhead Rope",
+    "category": "Triceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/Overhead rope.jpg"
+  },
+  {
+    "id": "machine-pushdown",
+    "name": "Machine Pushdown",
+    "category": "Triceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/Machine pushdown.jpg"
+  },
+  {
+    "id": "wide-grip-seated-row",
+    "name": "Wide Grip Seated Row",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/Wide grip seated row.jpg"
+  },
+  {
+    "id": "lat-pulldown",
+    "name": "Lat Pulldown",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/Lat pulldown.jpg"
+  },
+  {
+    "id": "single-arm-dumbbell-row",
+    "name": "Single Arm Dumbbell Row",
+    "category": "Back",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/Single arm dumbbell row.jpg"
+  },
+  {
+    "id": "back-extension",
+    "name": "Back Extension",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/Back extension.jpg"
+  },
+  {
+    "id": "dumbbell-shrugs",
+    "name": "Dumbbell Shrugs",
+    "category": "Trapezius",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/Dumbbell shrugs.jpg"
+  },
+  {
+    "id": "machine-curl",
+    "name": "Machine Curl",
+    "category": "Biceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/Machine curl.jpg"
+  },
+  {
+    "id": "hummer-curl",
+    "name": "Hummer Curl",
+    "category": "Biceps",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/Hummer curl.jpg"
+  },
+  {
+    "id": "leg-press-machine",
+    "name": "Leg Press Machine",
+    "category": "Quadriceps",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/Leg press machine.jpg"
+  },
+  {
+    "id": "leg-extension-machine",
+    "name": "Leg Extension Machine",
+    "category": "Quadriceps",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/Leg extension machine.jpg"
+  },
+  {
+    "id": "leg-curl-machine",
+    "name": "Leg Curl Machine",
+    "category": "Hamstring",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/Leg curl machine.jpg"
+  },
+  {
+    "id": "hip-abduction",
+    "name": "Hip Abduction Machine",
+    "category": "Hamstring",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/Hip abduction.jpg"
+  },
+  {
+    "id": "hip-adduction",
+    "name": "Hip Adduction Machine",
+    "category": "Hamstring",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/Hip adduction.jpg"
+  },
+  {
+    "id": "standing-calve-raise-smith",
+    "name": "Standing Calve Raise (Smith Machine)",
+    "category": "Calves",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/Standing calve raises smith.jpg"
+  },
+  {
+    "id": "seated-calve-raise",
+    "name": "Seated Calve Raise",
+    "category": "Calves",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/Seated calve raise.jpg"
+  },
+  {
+    "id": "decline-bench-press",
+    "name": "Decline Bench Press",
+    "category": "Chest",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/decline_bench_press_barbell.jpg"
+  },
+  {
+    "id": "dumbbell-bench-press",
+    "name": "Dumbbell Bench Press",
+    "category": "Chest",
+    "equipment": "Dumbbell"
+  },
+  {
+    "id": "cable-crossover",
+    "name": "Cable Crossover",
+    "category": "Chest",
+    "equipment": "Cable"
+  },
+  {
+    "id": "push-up",
+    "name": "Push Up",
+    "category": "Chest",
+    "equipment": "Bodyweight"
+  },
+  {
+    "id": "dips",
+    "name": "Chest Dip",
+    "category": "Chest",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/chest_dip.jpg"
+  },
+  {
+    "id": "overhead-shoulder-press",
+    "name": "Overhead Shoulder Press",
+    "category": "Shoulders",
+    "equipment": "Barbell"
+  },
+  {
+    "id": "seated-dumbbell-press",
+    "name": "Seated Dumbbell Press",
+    "category": "Shoulders",
+    "equipment": "Dumbbell"
+  },
+  {
+    "id": "front-raise",
+    "name": "Front Raise",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/front_raise_dumbbell.jpg"
+  },
+  {
+    "id": "cable-face-pull",
+    "name": "Cable Face Pull",
+    "category": "Shoulders",
+    "equipment": "Cable"
+  },
+  {
+    "id": "arnold-press",
+    "name": "Arnold Press",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/arnold_press_dumbbell.jpg"
+  },
+  {
+    "id": "skull-crusher",
+    "name": "Skull Crusher",
+    "category": "Triceps",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/skull_crusher_barbell.jpg"
+  },
+  {
+    "id": "close-grip-bench-press",
+    "name": "Close Grip Bench Press",
+    "category": "Triceps",
+    "equipment": "Barbell"
+  },
+  {
+    "id": "tricep-kickback",
+    "name": "Tricep Kickback",
+    "category": "Triceps",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/tricep_kickback_dumbbell.jpg"
+  },
+  {
+    "id": "bench-dip",
+    "name": "Bench Dip",
+    "category": "Triceps",
+    "equipment": "Bodyweight"
+  },
+  {
+    "id": "barbell-row",
+    "name": "Barbell Row",
+    "category": "Back",
+    "equipment": "Barbell"
+  },
+  {
+    "id": "pull-up",
+    "name": "Pull Up",
+    "category": "Back",
+    "equipment": "Bodyweight"
+  },
+  {
+    "id": "chin-up",
+    "name": "Chin Up",
+    "category": "Back",
+    "equipment": "Bodyweight"
+  },
+  {
+    "id": "t-bar-row",
+    "name": "T-Bar Row",
+    "category": "Back",
+    "equipment": "Machine"
+  },
+  {
+    "id": "deadlift",
+    "name": "Deadlift",
+    "category": "Back",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/deadlift_barbell.jpg"
+  },
+  {
+    "id": "barbell-shrugs",
+    "name": "Barbell Shrugs",
+    "category": "Trapezius",
+    "equipment": "Barbell"
+  },
+  {
+    "id": "cable-shrugs",
+    "name": "Cable Shrugs",
+    "category": "Trapezius",
+    "equipment": "Cable"
+  },
+  {
+    "id": "barbell-curl",
+    "name": "Barbell Curl",
+    "category": "Biceps",
+    "equipment": "Barbell"
+  },
+  {
+    "id": "preacher-curl",
+    "name": "Preacher Curl",
+    "category": "Biceps",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/preacher_curl_barbell.jpg"
+  },
+  {
+    "id": "concentration-curl",
+    "name": "Concentration Curl",
+    "category": "Biceps",
+    "equipment": "Dumbbell"
+  },
+  {
+    "id": "cable-curl",
+    "name": "Cable Curl",
+    "category": "Biceps",
+    "equipment": "Cable"
+  },
+  {
+    "id": "back-squat",
+    "name": "Back Squat",
+    "category": "Quadriceps",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/back_squat_barbell.jpg"
+  },
+  {
+    "id": "front-squat",
+    "name": "Front Squat",
+    "category": "Quadriceps",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/front_squat_barbell.jpg"
+  },
+  {
+    "id": "walking-lunge",
+    "name": "Walking Lunge",
+    "category": "Quadriceps",
+    "equipment": "Dumbbell"
+  },
+  {
+    "id": "goblet-squat",
+    "name": "Goblet Squat",
+    "category": "Quadriceps",
+    "equipment": "Dumbbell"
+  },
+  {
+    "id": "hack-squat",
+    "name": "Hack Squat Machine",
+    "category": "Quadriceps",
+    "equipment": "Machine"
+  },
+  {
+    "id": "romanian-deadlift",
+    "name": "Romanian Deadlift",
+    "category": "Hamstring",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/romanian_deadlift_barbell.jpg"
+  },
+  {
+    "id": "glute-ham-raise",
+    "name": "Glute Ham Raise",
+    "category": "Hamstring",
+    "equipment": "Bodyweight"
+  },
+  {
+    "id": "hip-thrust",
+    "name": "Hip Thrust",
+    "category": "Hamstring",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/hip_thrust_barbell.jpg"
+  },
+  {
+    "id": "standing-calf-raise-machine",
+    "name": "Standing Calf Raise Machine",
+    "category": "Calves",
+    "equipment": "Machine"
+  },
+  {
+    "id": "donkey-calf-raise",
+    "name": "Donkey Calf Raise",
+    "category": "Calves",
+    "equipment": "Machine"
+  },
+  {
+    "id": "plank",
+    "name": "Plank",
+    "category": "Abs",
+    "equipment": "Bodyweight"
+  },
+  {
+    "id": "hanging-leg-raise",
+    "name": "Hanging Leg Raise",
+    "category": "Abs",
+    "equipment": "Bodyweight"
+  },
+  {
+    "id": "cable-crunch",
+    "name": "Cable Crunch",
+    "category": "Abs",
+    "equipment": "Cable"
+  },
+  {
+    "id": "russian-twist",
+    "name": "Russian Twist",
+    "category": "Abs",
+    "equipment": "Bodyweight"
+  },
+  {
+    "id": "ab-wheel-rollout",
+    "name": "Ab Wheel Rollout",
+    "category": "Abs",
+    "equipment": "Bodyweight"
+  },
+  {
+    "id": "wrist-curl",
+    "name": "Wrist Curl",
+    "category": "Forearms",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/wrist_curl_barbell.jpg"
+  },
+  {
+    "id": "reverse-wrist-curl",
+    "name": "Reverse Wrist Curl",
+    "category": "Forearms",
+    "equipment": "Barbell"
+  },
+  {
+    "id": "farmers-carry",
+    "name": "Farmer's Carry",
+    "category": "Forearms",
+    "equipment": "Dumbbell"
+  },
+  {
+    "id": "kettlebell-swing",
+    "name": "Kettlebell Swing",
+    "category": "Full Body",
+    "equipment": "Kettlebell"
+  },
+  {
+    "id": "clean-and-press",
+    "name": "Clean and Press",
+    "category": "Full Body",
+    "equipment": "Barbell"
+  },
+  {
+    "id": "burpee",
+    "name": "Burpee",
+    "category": "Full Body",
+    "equipment": "Bodyweight"
+  },
+  {
+    "id": "treadmill",
+    "name": "Treadmill",
+    "category": "Cardio",
+    "equipment": "Cardio Machine"
+  },
+  {
+    "id": "stationary-bike",
+    "name": "Stationary Bike",
+    "category": "Cardio",
+    "equipment": "Cardio Machine"
+  },
+  {
+    "id": "elliptical",
+    "name": "Elliptical Trainer",
+    "category": "Cardio",
+    "equipment": "Cardio Machine",
+    "thumbnailUrl": "/machines/frames/elliptical_trainer.jpg"
+  },
+  {
+    "id": "rowing-machine",
+    "name": "Rowing Machine",
+    "category": "Cardio",
+    "equipment": "Cardio Machine"
+  },
+  {
+    "id": "stair-climber",
+    "name": "Stair Climber",
+    "category": "Cardio",
+    "equipment": "Cardio Machine"
+  },
+  {
+    "id": "bench-press-barbell",
+    "name": "Bench Press (Barbell)",
+    "category": "Chest",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/bench_press_barbell.jpg"
+  },
+  {
+    "id": "bench-press-cable",
+    "name": "Bench Press (Cable)",
+    "category": "Chest",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/bench_press_cable.jpg"
+  },
+  {
+    "id": "bench-press-dumbbell",
+    "name": "Bench Press (Dumbbell)",
+    "category": "Chest",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/bench_press_dumbbell.jpg"
+  },
+  {
+    "id": "bench-press-smith-machine",
+    "name": "Bench Press (Smith Machine)",
+    "category": "Chest",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/frames/bench_press_smith_machine.jpg"
+  },
+  {
+    "id": "bench-press-wide-grip-barbell",
+    "name": "Bench Press Wide Grip (Barbell)",
+    "category": "Chest",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/bench_press_wide_grip_barbell.jpg"
+  },
+  {
+    "id": "chain-bench-press",
+    "name": "Chain Bench Press",
+    "category": "Chest",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/chain_bench_press.jpg"
+  },
+  {
+    "id": "chest-fly-band",
+    "name": "Chest Fly (Band)",
+    "category": "Chest",
+    "equipment": "Band",
+    "thumbnailUrl": "/machines/frames/chest_fly_band.jpg"
+  },
+  {
+    "id": "chest-fly-dumbbell",
+    "name": "Chest Fly (Dumbbell)",
+    "category": "Chest",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/chest_fly_dumbbell.jpg"
+  },
+  {
+    "id": "chest-fly-machine-2",
+    "name": "Chest Fly (Machine 2)",
+    "category": "Chest",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/chest_fly_machine_2.jpg"
+  },
+  {
+    "id": "chest-fly-machine",
+    "name": "Chest Fly (Machine)",
+    "category": "Chest",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/chest_fly_machine.jpg"
+  },
+  {
+    "id": "chest-press-machine-2",
+    "name": "Chest Press (Machine 2)",
+    "category": "Chest",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/chest_press_machine_2.jpg"
+  },
+  {
+    "id": "chest-press-machine-3",
+    "name": "Chest Press (Machine 3)",
+    "category": "Chest",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/chest_press_machine_3.jpg"
+  },
+  {
+    "id": "chest-press-machine-4",
+    "name": "Chest Press (Machine 4)",
+    "category": "Chest",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/chest_press_machine_4.jpg"
+  },
+  {
+    "id": "chest-press-machine-5",
+    "name": "Chest Press (Machine 5)",
+    "category": "Chest",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/chest_press_machine_5.jpg"
+  },
+  {
+    "id": "chest-press-machine",
+    "name": "Chest Press (Machine)",
+    "category": "Chest",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/chest_press_machine.jpg"
+  },
+  {
+    "id": "chest-press-lying-machine",
+    "name": "Chest Press Lying (Machine)",
+    "category": "Chest",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/chest_press_lying_machine.jpg"
+  },
+  {
+    "id": "chest-press-parallel-machine",
+    "name": "Chest Press Parallel (Machine)",
+    "category": "Chest",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/chest_press_parallel_machine.jpg"
+  },
+  {
+    "id": "chest-supported-t-bar-row",
+    "name": "Chest Supported T Bar Row",
+    "category": "Chest",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/chest_supported_t_bar_row.jpg"
+  },
+  {
+    "id": "cross-body-one-arm-chest-press-band",
+    "name": "Cross Body One Arm Chest Press (Band)",
+    "category": "Chest",
+    "equipment": "Band",
+    "thumbnailUrl": "/machines/frames/cross_body_one_arm_chest_press_band.jpg"
+  },
+  {
+    "id": "decline-bench-press-dumbbell",
+    "name": "Decline Bench Press (Dumbbell)",
+    "category": "Chest",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/decline_bench_press_dumbbell.jpg"
+  },
+  {
+    "id": "decline-chest-fly-dumbbell",
+    "name": "Decline Chest Fly (Dumbbell)",
+    "category": "Chest",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/decline_chest_fly_dumbbell.jpg"
+  },
+  {
+    "id": "decline-twist-fly-dumbbell",
+    "name": "Decline Twist Fly (Dumbbell)",
+    "category": "Chest",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/decline_twist_fly_dumbbell.jpg"
+  },
+  {
+    "id": "fly-on-exercise-ball-dumbbell",
+    "name": "Fly on Exercise Ball (Dumbbell)",
+    "category": "Chest",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/fly_on_exercise_ball_dumbbell.jpg"
+  },
+  {
+    "id": "hammer-floor-press-dumbbell",
+    "name": "Hammer Floor Press (Dumbbell)",
+    "category": "Chest",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/hammer_floor_press_dumbbell.jpg"
+  },
+  {
+    "id": "incline-bench-press-barbell",
+    "name": "Incline Bench Press (Barbell)",
+    "category": "Chest",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/incline_bench_press_barbell.jpg"
+  },
+  {
+    "id": "incline-bench-press-dumbbell",
+    "name": "Incline Bench Press (Dumbbell)",
+    "category": "Chest",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/incline_bench_press_dumbbell.jpg"
+  },
+  {
+    "id": "incline-bench-press-smith-machine",
+    "name": "Incline Bench Press (Smith Machine)",
+    "category": "Chest",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/frames/incline_bench_press_smith_machine.jpg"
+  },
+  {
+    "id": "incline-chest-fly-dumbbell",
+    "name": "Incline Chest Fly (Dumbbell)",
+    "category": "Chest",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/incline_chest_fly_dumbbell.jpg"
+  },
+  {
+    "id": "incline-hammer-strength-chest-press",
+    "name": "Incline Hammer Strength Chest Press",
+    "category": "Chest",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/incline_hammer_strength_chest_press.jpg"
+  },
+  {
+    "id": "pullover-machine",
+    "name": "Pullover (Machine)",
+    "category": "Chest",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/pullover_machine.jpg"
+  },
+  {
+    "id": "rear-delt-fly-cable",
+    "name": "Rear Delt Fly (Cable)",
+    "category": "Chest",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/rear_delt_fly_cable.jpg"
+  },
+  {
+    "id": "rear-delt-fly-machine",
+    "name": "Rear Delt Fly (Machine)",
+    "category": "Chest",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/rear_delt_fly_machine.jpg"
+  },
+  {
+    "id": "rear-delt-fly-seated-dumbbell",
+    "name": "Rear Delt Fly Seated (Dumbbell)",
+    "category": "Chest",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/rear_delt_fly_seated_dumbbell.jpg"
+  },
+  {
+    "id": "squeeze-bench-press-dumbbell",
+    "name": "Squeeze Bench Press (Dumbbell)",
+    "category": "Chest",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/squeeze_bench_press_dumbbell.jpg"
+  },
+  {
+    "id": "svend-press",
+    "name": "Svend Press",
+    "category": "Chest",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/svend_press.jpg"
+  },
+  {
+    "id": "face-pull-band",
+    "name": "Face Pull (Band)",
+    "category": "Shoulders",
+    "equipment": "Band",
+    "thumbnailUrl": "/machines/frames/face_pull_band.jpg"
+  },
+  {
+    "id": "front-raise-barbell",
+    "name": "Front Raise (Barbell)",
+    "category": "Shoulders",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/front_raise_barbell.jpg"
+  },
+  {
+    "id": "front-raise-cable",
+    "name": "Front Raise (Cable)",
+    "category": "Shoulders",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/front_raise_cable.jpg"
+  },
+  {
+    "id": "front-raise-plate",
+    "name": "Front Raise (Plate)",
+    "category": "Shoulders",
+    "equipment": "Plate",
+    "thumbnailUrl": "/machines/frames/front_raise_plate.jpg"
+  },
+  {
+    "id": "front-raise-rope-cable",
+    "name": "Front Raise Rope (Cable)",
+    "category": "Shoulders",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/front_raise_rope_cable.jpg"
+  },
+  {
+    "id": "lateral-raise-band",
+    "name": "Lateral Raise (Band)",
+    "category": "Shoulders",
+    "equipment": "Band",
+    "thumbnailUrl": "/machines/frames/lateral_raise_band.jpg"
+  },
+  {
+    "id": "lateral-raise-cable",
+    "name": "Lateral Raise (Cable)",
+    "category": "Shoulders",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/lateral_raise_cable.jpg"
+  },
+  {
+    "id": "lateral-raise-dumbbell",
+    "name": "Lateral Raise (Dumbbell)",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/lateral_raise_dumbbell.jpg"
+  },
+  {
+    "id": "lateral-raise-machine-2",
+    "name": "Lateral Raise (Machine 2)",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/lateral_raise_machine_2.jpg"
+  },
+  {
+    "id": "lateral-raise-machine",
+    "name": "Lateral Raise (Machine)",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/lateral_raise_machine.jpg"
+  },
+  {
+    "id": "lateral-raise-chest-supported-machine",
+    "name": "Lateral Raise Chest Supported (Machine)",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/lateral_raise_chest_supported_machine.jpg"
+  },
+  {
+    "id": "lateral-raise-seated-machine",
+    "name": "Lateral Raise Seated (Machine)",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/lateral_raise_seated_machine.jpg"
+  },
+  {
+    "id": "lateral-raise-standing-machine",
+    "name": "Lateral Raise Standing (Machine)",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/lateral_raise_standing_machine.jpg"
+  },
+  {
+    "id": "lateral-raise-standing-bent-arm-dumbbell",
+    "name": "Lateral Raise Standing Bent Arm (Dumbbell)",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/lateral_raise_standing_bent_arm_dumbbell.jpg"
+  },
+  {
+    "id": "lateral-to-front-raise-dumbbell",
+    "name": "Lateral to Front Raise (Dumbbell)",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/lateral_to_front_raise_dumbbell.jpg"
+  },
+  {
+    "id": "military-press",
+    "name": "Military Press",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/military_press.jpg"
+  },
+  {
+    "id": "military-press-seated-squat-cage",
+    "name": "Military Press Seated Squat Cage",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/military_press_seated_squat_cage.jpg"
+  },
+  {
+    "id": "military-press-sitting-machine",
+    "name": "Military Press Sitting (Machine)",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/military_press_sitting_machine.jpg"
+  },
+  {
+    "id": "military-press-sitting-behind-head",
+    "name": "Military Press Sitting Behind Head",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/military_press_sitting_behind_head.jpg"
+  },
+  {
+    "id": "overhead-press-barbell",
+    "name": "Overhead Press (Barbell)",
+    "category": "Shoulders",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/overhead_press_barbell.jpg"
+  },
+  {
+    "id": "overhead-press-cable",
+    "name": "Overhead Press (Cable)",
+    "category": "Shoulders",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/overhead_press_cable.jpg"
+  },
+  {
+    "id": "overhead-press-smith-machine",
+    "name": "Overhead Press (Smith Machine)",
+    "category": "Shoulders",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/frames/overhead_press_smith_machine.jpg"
+  },
+  {
+    "id": "overhead-press-trap-bar",
+    "name": "Overhead Press (Trap Bar)",
+    "category": "Shoulders",
+    "equipment": "Trap Bar",
+    "thumbnailUrl": "/machines/frames/overhead_press_trap_bar.jpg"
+  },
+  {
+    "id": "overhead-press-alternate-dumbbell",
+    "name": "Overhead Press Alternate (Dumbbell)",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/overhead_press_alternate_dumbbell.jpg"
+  },
+  {
+    "id": "overhead-press-alternate-seated-dumbbell",
+    "name": "Overhead Press Alternate Seated (Dumbbell)",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/overhead_press_alternate_seated_dumbbell.jpg"
+  },
+  {
+    "id": "overhead-press-close-grip-dumbbell",
+    "name": "Overhead Press Close Grip (Dumbbell)",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/overhead_press_close_grip_dumbbell.jpg"
+  },
+  {
+    "id": "overhead-press-half-kneeling-kettlebell",
+    "name": "Overhead Press Half Kneeling (Kettlebell)",
+    "category": "Shoulders",
+    "equipment": "Kettlebell",
+    "thumbnailUrl": "/machines/frames/overhead_press_half_kneeling_kettlebell.jpg"
+  },
+  {
+    "id": "overhead-press-hammer-grip-machine",
+    "name": "Overhead Press Hammer Grip (Machine)",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/overhead_press_hammer_grip_machine.jpg"
+  },
+  {
+    "id": "overhead-press-incline-barbell",
+    "name": "Overhead Press Incline (Barbell)",
+    "category": "Shoulders",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/overhead_press_incline_barbell.jpg"
+  },
+  {
+    "id": "overhead-press-incline-dumbbell",
+    "name": "Overhead Press Incline (Dumbbell)",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/overhead_press_incline_dumbbell.jpg"
+  },
+  {
+    "id": "overhead-press-kneeling-cable",
+    "name": "Overhead Press Kneeling (Cable)",
+    "category": "Shoulders",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/overhead_press_kneeling_cable.jpg"
+  },
+  {
+    "id": "overhead-press-kneeling-single-arm-landmine",
+    "name": "Overhead Press Kneeling Single Arm (Landmine)",
+    "category": "Shoulders",
+    "equipment": "Landmine",
+    "thumbnailUrl": "/machines/frames/overhead_press_kneeling_single_arm_landmine.jpg"
+  },
+  {
+    "id": "overhead-press-reverse-grip-barbell",
+    "name": "Overhead Press Reverse Grip (Barbell)",
+    "category": "Shoulders",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/overhead_press_reverse_grip_barbell.jpg"
+  },
+  {
+    "id": "overhead-press-reverse-seated-machine",
+    "name": "Overhead Press Reverse Seated (Machine)",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/overhead_press_reverse_seated_machine.jpg"
+  },
+  {
+    "id": "overhead-press-seated-barbell",
+    "name": "Overhead Press Seated (Barbell)",
+    "category": "Shoulders",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/overhead_press_seated_barbell.jpg"
+  },
+  {
+    "id": "overhead-press-seated-dumbbell",
+    "name": "Overhead Press Seated (Dumbbell)",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/overhead_press_seated_dumbbell.jpg"
+  },
+  {
+    "id": "overhead-press-seated-landmine",
+    "name": "Overhead Press Seated (Landmine)",
+    "category": "Shoulders",
+    "equipment": "Landmine",
+    "thumbnailUrl": "/machines/frames/overhead_press_seated_landmine.jpg"
+  },
+  {
+    "id": "overhead-press-seated-machine-2",
+    "name": "Overhead Press Seated (Machine 2)",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/overhead_press_seated_machine_2.jpg"
+  },
+  {
+    "id": "overhead-press-seated-machine-3",
+    "name": "Overhead Press Seated (Machine 3)",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/overhead_press_seated_machine_3.jpg"
+  },
+  {
+    "id": "overhead-press-seated-machine",
+    "name": "Overhead Press Seated (Machine)",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/overhead_press_seated_machine.jpg"
+  },
+  {
+    "id": "overhead-press-seated-smith-machine",
+    "name": "Overhead Press Seated (Smith Machine)",
+    "category": "Shoulders",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/frames/overhead_press_seated_smith_machine.jpg"
+  },
+  {
+    "id": "overhead-press-seated-close-grip-ez-bar",
+    "name": "Overhead Press Seated Close Grip (EZ Bar)",
+    "category": "Shoulders",
+    "equipment": "EZ Bar",
+    "thumbnailUrl": "/machines/frames/overhead_press_seated_close_grip_ez_bar.jpg"
+  },
+  {
+    "id": "overhead-press-seated-neutral-grip-kettlebell",
+    "name": "Overhead Press Seated Neutral Grip (Kettlebell)",
+    "category": "Shoulders",
+    "equipment": "Kettlebell",
+    "thumbnailUrl": "/machines/frames/overhead_press_seated_neutral_grip_kettlebell.jpg"
+  },
+  {
+    "id": "overhead-press-seated-parallel-grip-dumbbell",
+    "name": "Overhead Press Seated Parallel Grip (Dumbbell)",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/overhead_press_seated_parallel_grip_dumbbell.jpg"
+  },
+  {
+    "id": "overhead-press-seated-single-arm-machine-2",
+    "name": "Overhead Press Seated Single Arm (Machine 2)",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/overhead_press_seated_single_arm_machine_2.jpg"
+  },
+  {
+    "id": "overhead-press-seated-single-arm-machine",
+    "name": "Overhead Press Seated Single Arm (Machine)",
+    "category": "Shoulders",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/overhead_press_seated_single_arm_machine.jpg"
+  },
+  {
+    "id": "overhead-press-shoulder-to-shoulder-landmine",
+    "name": "Overhead Press Shoulder to Shoulder (Landmine)",
+    "category": "Shoulders",
+    "equipment": "Landmine",
+    "thumbnailUrl": "/machines/frames/overhead_press_shoulder_to_shoulder_landmine.jpg"
+  },
+  {
+    "id": "overhead-press-single-arm-lever",
+    "name": "Overhead Press Single Arm Lever",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/overhead_press_single_arm_lever.jpg"
+  },
+  {
+    "id": "overhead-press-viking-attachment-landmine",
+    "name": "Overhead Press Viking Attachment (Landmine)",
+    "category": "Shoulders",
+    "equipment": "Landmine",
+    "thumbnailUrl": "/machines/frames/overhead_press_viking_attachment_landmine.jpg"
+  },
+  {
+    "id": "overhead-press-to-pec-dec-dumbbell",
+    "name": "Overhead Press to Pec Dec (Dumbbell)",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/overhead_press_to_pec_dec_dumbbell.jpg"
+  },
+  {
+    "id": "prone-y-raise",
+    "name": "Prone Y Raise",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/prone_y_raise.jpg"
+  },
+  {
+    "id": "push-press-barbell",
+    "name": "Push Press (Barbell)",
+    "category": "Shoulders",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/push_press_barbell.jpg"
+  },
+  {
+    "id": "rear-delt-row-dumbbell",
+    "name": "Rear Delt Row (Dumbbell)",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/rear_delt_row_dumbbell.jpg"
+  },
+  {
+    "id": "scott-press",
+    "name": "Scott Press",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/scott_press.jpg"
+  },
+  {
+    "id": "shoulder-press-face-down-lying-dumbbell",
+    "name": "Shoulder Press Face Down Lying (Dumbbell)",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/shoulder_press_face_down_lying_dumbbell.jpg"
+  },
+  {
+    "id": "upright-row-barbell",
+    "name": "Upright Row (Barbell)",
+    "category": "Shoulders",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/upright_row_barbell.jpg"
+  },
+  {
+    "id": "upright-row-cable",
+    "name": "Upright Row (Cable)",
+    "category": "Shoulders",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/upright_row_cable.jpg"
+  },
+  {
+    "id": "upright-row-dumbbell",
+    "name": "Upright Row (Dumbbell)",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/upright_row_dumbbell.jpg"
+  },
+  {
+    "id": "y-raise-dumbbell",
+    "name": "Y Raise (Dumbbell)",
+    "category": "Shoulders",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/y_raise_dumbbell.jpg"
+  },
+  {
+    "id": "bicep-curl-close-grip-ez-bar",
+    "name": "Bicep Curl Close Grip (EZ Bar)",
+    "category": "Triceps",
+    "equipment": "EZ Bar",
+    "thumbnailUrl": "/machines/frames/bicep_curl_close_grip_ez_bar.jpg"
+  },
+  {
+    "id": "concentration-curl-seated-close-grip-ez-bar",
+    "name": "Concentration Curl Seated Close Grip (EZ Bar)",
+    "category": "Triceps",
+    "equipment": "EZ Bar",
+    "thumbnailUrl": "/machines/frames/concentration_curl_seated_close_grip_ez_bar.jpg"
+  },
+  {
+    "id": "jm-press-barbell",
+    "name": "Jm Press (Barbell)",
+    "category": "Triceps",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/jm_press_barbell.jpg"
+  },
+  {
+    "id": "lat-pulldown-close-grip-cable",
+    "name": "Lat Pulldown Close Grip (Cable)",
+    "category": "Triceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_close_grip_cable.jpg"
+  },
+  {
+    "id": "overhead-tricep-extension-cable",
+    "name": "Overhead Tricep Extension (Cable)",
+    "category": "Triceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/overhead_tricep_extension_cable.jpg"
+  },
+  {
+    "id": "preacher-curl-close-grip-ez-bar",
+    "name": "Preacher Curl Close Grip (EZ Bar)",
+    "category": "Triceps",
+    "equipment": "EZ Bar",
+    "thumbnailUrl": "/machines/frames/preacher_curl_close_grip_ez_bar.jpg"
+  },
+  {
+    "id": "reverse-grip-tricep-pushdown-cable",
+    "name": "Reverse Grip Tricep Pushdown (Cable)",
+    "category": "Triceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/reverse_grip_tricep_pushdown_cable.jpg"
+  },
+  {
+    "id": "skull-crusher-dumbbell",
+    "name": "Skull Crusher (Dumbbell)",
+    "category": "Triceps",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/skull_crusher_dumbbell.jpg"
+  },
+  {
+    "id": "skull-crusher-ez-bar",
+    "name": "Skull Crusher (EZ Bar)",
+    "category": "Triceps",
+    "equipment": "EZ Bar",
+    "thumbnailUrl": "/machines/frames/skull_crusher_ez_bar.jpg"
+  },
+  {
+    "id": "tricep-dip-machine-2",
+    "name": "Tricep Dip (Machine 2)",
+    "category": "Triceps",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/tricep_dip_machine_2.jpg"
+  },
+  {
+    "id": "tricep-dip-machine",
+    "name": "Tricep Dip (Machine)",
+    "category": "Triceps",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/tricep_dip_machine.jpg"
+  },
+  {
+    "id": "tricep-dip-bar",
+    "name": "Tricep Dip Bar",
+    "category": "Triceps",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/tricep_dip_bar.jpg"
+  },
+  {
+    "id": "tricep-extension-machine",
+    "name": "Tricep Extension (Machine)",
+    "category": "Triceps",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/tricep_extension_machine.jpg"
+  },
+  {
+    "id": "tricep-kickback-cable",
+    "name": "Tricep Kickback (Cable)",
+    "category": "Triceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/tricep_kickback_cable.jpg"
+  },
+  {
+    "id": "tricep-pushdown-cable",
+    "name": "Tricep Pushdown (Cable)",
+    "category": "Triceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/tricep_pushdown_cable.jpg"
+  },
+  {
+    "id": "tricep-pushdown-rope-cable",
+    "name": "Tricep Pushdown Rope (Cable)",
+    "category": "Triceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/tricep_pushdown_rope_cable.jpg"
+  },
+  {
+    "id": "tricep-pushdown-single-arm-rope-cable",
+    "name": "Tricep Pushdown Single Arm Rope (Cable)",
+    "category": "Triceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/tricep_pushdown_single_arm_rope_cable.jpg"
+  },
+  {
+    "id": "tricep-pushdown-v-bar-cable",
+    "name": "Tricep Pushdown V Bar (Cable)",
+    "category": "Triceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/tricep_pushdown_v_bar_cable.jpg"
+  },
+  {
+    "id": "tricep-single-arm-side-pushdown-cable",
+    "name": "Tricep Single Arm Side Pushdown (Cable)",
+    "category": "Triceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/tricep_single_arm_side_pushdown_cable.jpg"
+  },
+  {
+    "id": "archer-pull-up",
+    "name": "Archer Pull Up",
+    "category": "Back",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/archer_pull_up.jpg"
+  },
+  {
+    "id": "back-extension-machine",
+    "name": "Back Extension (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/back_extension_machine.jpg"
+  },
+  {
+    "id": "back-extension-hyperextension",
+    "name": "Back Extension Hyperextension",
+    "category": "Back",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/back_extension_hyperextension.jpg"
+  },
+  {
+    "id": "back-extension-weighted-hyperextension",
+    "name": "Back Extension Weighted Hyperextension",
+    "category": "Back",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/back_extension_weighted_hyperextension.jpg"
+  },
+  {
+    "id": "back-lever",
+    "name": "Back Lever",
+    "category": "Back",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/back_lever.jpg"
+  },
+  {
+    "id": "back-row-fixed-handle-cable",
+    "name": "Back Row Fixed Handle (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/back_row_fixed_handle_cable.jpg"
+  },
+  {
+    "id": "back-row-seated-chest-supported-cable",
+    "name": "Back Row Seated Chest Supported (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/back_row_seated_chest_supported_cable.jpg"
+  },
+  {
+    "id": "bent-over-low-row-machine",
+    "name": "Bent Over Low Row (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/bent_over_low_row_machine.jpg"
+  },
+  {
+    "id": "bent-over-neutral-grip-row-chest-supported-machine",
+    "name": "Bent Over Neutral Grip Row Chest Supported (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/bent_over_neutral_grip_row_chest_supported_machine.jpg"
+  },
+  {
+    "id": "bent-over-row-dumbbell",
+    "name": "Bent Over Row (Dumbbell)",
+    "category": "Back",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/bent_over_row_dumbbell.jpg"
+  },
+  {
+    "id": "bent-over-row-machine",
+    "name": "Bent Over Row (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/bent_over_row_machine.jpg"
+  },
+  {
+    "id": "bent-over-row-narrow-cable",
+    "name": "Bent Over Row Narrow (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/bent_over_row_narrow_cable.jpg"
+  },
+  {
+    "id": "bent-over-row-one-arm-cable",
+    "name": "Bent Over Row One Arm (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/bent_over_row_one_arm_cable.jpg"
+  },
+  {
+    "id": "bent-over-v-bar-row-landmine",
+    "name": "Bent Over V Bar Row (Landmine)",
+    "category": "Back",
+    "equipment": "Landmine",
+    "thumbnailUrl": "/machines/frames/bent_over_v_bar_row_landmine.jpg"
+  },
+  {
+    "id": "chest-supported-incline-row-dumbbell",
+    "name": "Chest Supported Incline Row (Dumbbell)",
+    "category": "Back",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/chest_supported_incline_row_dumbbell.jpg"
+  },
+  {
+    "id": "chin-up-assisted",
+    "name": "Chin Up Assisted",
+    "category": "Back",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/chin_up_assisted.jpg"
+  },
+  {
+    "id": "chin-up-assisted-standing-machine",
+    "name": "Chin Up Assisted Standing (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/chin_up_assisted_standing_machine.jpg"
+  },
+  {
+    "id": "commando-pull-up",
+    "name": "Commando Pull Up",
+    "category": "Back",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/commando_pull_up.jpg"
+  },
+  {
+    "id": "decline-seated-wide-grip-row-cable",
+    "name": "Decline Seated Wide Grip Row (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/decline_seated_wide_grip_row_cable.jpg"
+  },
+  {
+    "id": "dumbbell-row",
+    "name": "Dumbbell Row",
+    "category": "Back",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/dumbbell_row.jpg"
+  },
+  {
+    "id": "half-kneeling-single-arm-row-cable",
+    "name": "Half Kneeling Single Arm Row (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/half_kneeling_single_arm_row_cable.jpg"
+  },
+  {
+    "id": "half-kneeling-single-arm-row-hand-on-bench-cable",
+    "name": "Half Kneeling Single Arm Row Hand on Bench (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/half_kneeling_single_arm_row_hand_on_bench_cable.jpg"
+  },
+  {
+    "id": "hammer-grip-pull-up",
+    "name": "Hammer Grip Pull Up",
+    "category": "Back",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/hammer_grip_pull_up.jpg"
+  },
+  {
+    "id": "high-row-cable",
+    "name": "High Row (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/high_row_cable.jpg"
+  },
+  {
+    "id": "high-row-machine",
+    "name": "High Row (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/high_row_machine.jpg"
+  },
+  {
+    "id": "high-row-chest-supported-cable",
+    "name": "High Row Chest Supported (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/high_row_chest_supported_cable.jpg"
+  },
+  {
+    "id": "high-row-neutral-grip-machine",
+    "name": "High Row Neutral Grip (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/high_row_neutral_grip_machine.jpg"
+  },
+  {
+    "id": "incline-row-barbell",
+    "name": "Incline Row (Barbell)",
+    "category": "Back",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/incline_row_barbell.jpg"
+  },
+  {
+    "id": "inverted-row",
+    "name": "Inverted Row",
+    "category": "Back",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/inverted_row.jpg"
+  },
+  {
+    "id": "iso-lateral-high-row-machine",
+    "name": "Iso Lateral High Row (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/iso_lateral_high_row_machine.jpg"
+  },
+  {
+    "id": "iso-lateral-high-row-single-arm-machine",
+    "name": "Iso Lateral High Row Single Arm (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/iso_lateral_high_row_single_arm_machine.jpg"
+  },
+  {
+    "id": "kneeling-pulldown-band",
+    "name": "Kneeling Pulldown (Band)",
+    "category": "Back",
+    "equipment": "Band",
+    "thumbnailUrl": "/machines/frames/kneeling_pulldown_band.jpg"
+  },
+  {
+    "id": "lat-pulldown-cable",
+    "name": "Lat Pulldown (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_cable.jpg"
+  },
+  {
+    "id": "lat-pulldown-machine-3",
+    "name": "Lat Pulldown (Machine 3)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_machine_3.jpg"
+  },
+  {
+    "id": "lat-pulldown-machine",
+    "name": "Lat Pulldown (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_machine.jpg"
+  },
+  {
+    "id": "lat-pulldown-bent-over-band",
+    "name": "Lat Pulldown Bent Over (Band)",
+    "category": "Back",
+    "equipment": "Band",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_bent_over_band.jpg"
+  },
+  {
+    "id": "lat-pulldown-cross-machine-2",
+    "name": "Lat Pulldown Cross (Machine 2)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_cross_machine_2.jpg"
+  },
+  {
+    "id": "lat-pulldown-cross-machine",
+    "name": "Lat Pulldown Cross (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_cross_machine.jpg"
+  },
+  {
+    "id": "lat-pulldown-incline-single-arm-cable",
+    "name": "Lat Pulldown Incline Single Arm (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_incline_single_arm_cable.jpg"
+  },
+  {
+    "id": "lat-pulldown-kneeling-cross-body-band",
+    "name": "Lat Pulldown Kneeling Cross Body (Band)",
+    "category": "Back",
+    "equipment": "Band",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_kneeling_cross_body_band.jpg"
+  },
+  {
+    "id": "lat-pulldown-kneeling-single-arm-cable",
+    "name": "Lat Pulldown Kneeling Single Arm (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_kneeling_single_arm_cable.jpg"
+  },
+  {
+    "id": "lat-pulldown-mag-grip-cable",
+    "name": "Lat Pulldown Mag Grip (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_mag_grip_cable.jpg"
+  },
+  {
+    "id": "lat-pulldown-narrow-neutral-grip-cable",
+    "name": "Lat Pulldown Narrow Neutral Grip (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_narrow_neutral_grip_cable.jpg"
+  },
+  {
+    "id": "lat-pulldown-parallel-grip-cable",
+    "name": "Lat Pulldown Parallel Grip (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_parallel_grip_cable.jpg"
+  },
+  {
+    "id": "lat-pulldown-reverse-grip-machine-2",
+    "name": "Lat Pulldown Reverse Grip (Machine 2)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_reverse_grip_machine_2.jpg"
+  },
+  {
+    "id": "lat-pulldown-reverse-grip-machine",
+    "name": "Lat Pulldown Reverse Grip (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_reverse_grip_machine.jpg"
+  },
+  {
+    "id": "lat-pulldown-rope-cable",
+    "name": "Lat Pulldown Rope (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_rope_cable.jpg"
+  },
+  {
+    "id": "lat-pulldown-side-stance-straight-arm-cable",
+    "name": "Lat Pulldown Side Stance Straight Arm (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_side_stance_straight_arm_cable.jpg"
+  },
+  {
+    "id": "lat-pulldown-single-arm-cable",
+    "name": "Lat Pulldown Single Arm (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_single_arm_cable.jpg"
+  },
+  {
+    "id": "lat-pulldown-standing-cable",
+    "name": "Lat Pulldown Standing (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_standing_cable.jpg"
+  },
+  {
+    "id": "lat-pulldown-v-bar-cable",
+    "name": "Lat Pulldown V Bar (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_v_bar_cable.jpg"
+  },
+  {
+    "id": "lat-pulldown-wide-machine-2",
+    "name": "Lat Pulldown Wide (Machine 2)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_wide_machine_2.jpg"
+  },
+  {
+    "id": "lat-pulldown-wide-machine",
+    "name": "Lat Pulldown Wide (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_wide_machine.jpg"
+  },
+  {
+    "id": "lat-pulldown-wide-single-arm-machine",
+    "name": "Lat Pulldown Wide Single Arm (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_wide_single_arm_machine.jpg"
+  },
+  {
+    "id": "lat-pulldown-widegrip",
+    "name": "Lat Pulldown Widegrip",
+    "category": "Back",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/lat_pulldown_widegrip.jpg"
+  },
+  {
+    "id": "low-row-plate-loaded-machine",
+    "name": "Low Row Plate Loaded (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/low_row_plate_loaded_machine.jpg"
+  },
+  {
+    "id": "lying-row-cambered-bar",
+    "name": "Lying Row Cambered Bar",
+    "category": "Back",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/lying_row_cambered_bar.jpg"
+  },
+  {
+    "id": "neutral-grip-seated-row-machine",
+    "name": "Neutral Grip Seated Row (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/neutral_grip_seated_row_machine.jpg"
+  },
+  {
+    "id": "pronated-grip-seated-row-machine",
+    "name": "Pronated Grip Seated Row (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/pronated_grip_seated_row_machine.jpg"
+  },
+  {
+    "id": "renegade-row-dumbbell",
+    "name": "Renegade Row (Dumbbell)",
+    "category": "Back",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/renegade_row_dumbbell.jpg"
+  },
+  {
+    "id": "reverse-grip-high-row-machine",
+    "name": "Reverse Grip High Row (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/reverse_grip_high_row_machine.jpg"
+  },
+  {
+    "id": "reverse-grip-lat-pulldown-cable",
+    "name": "Reverse Grip Lat Pulldown (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/reverse_grip_lat_pulldown_cable.jpg"
+  },
+  {
+    "id": "reverse-t-bar-row-machine",
+    "name": "Reverse T Bar Row (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/reverse_t_bar_row_machine.jpg"
+  },
+  {
+    "id": "ring-row",
+    "name": "Ring Row",
+    "category": "Back",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/ring_row.jpg"
+  },
+  {
+    "id": "row-seated-chest-supported-cable",
+    "name": "Row Seated Chest Supported (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/row_seated_chest_supported_cable.jpg"
+  },
+  {
+    "id": "row-seated-chest-supported-machine",
+    "name": "Row Seated Chest Supported (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/row_seated_chest_supported_machine.jpg"
+  },
+  {
+    "id": "seated-row-machine",
+    "name": "Seated Row (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/seated_row_machine.jpg"
+  },
+  {
+    "id": "shrug-barbell",
+    "name": "Shrug (Barbell)",
+    "category": "Back",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/shrug_barbell.jpg"
+  },
+  {
+    "id": "shrug-cable",
+    "name": "Shrug (Cable)",
+    "category": "Back",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/shrug_cable.jpg"
+  },
+  {
+    "id": "shrug-dumbbell",
+    "name": "Shrug (Dumbbell)",
+    "category": "Back",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/shrug_dumbbell.jpg"
+  },
+  {
+    "id": "shrug-machine",
+    "name": "Shrug (Machine)",
+    "category": "Back",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/shrug_machine.jpg"
+  },
+  {
+    "id": "shrug-smith-machine",
+    "name": "Shrug (Smith Machine)",
+    "category": "Back",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/frames/shrug_smith_machine.jpg"
+  },
+  {
+    "id": "bicep-curl-barbell",
+    "name": "Bicep Curl (Barbell)",
+    "category": "Biceps",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/bicep_curl_barbell.jpg"
+  },
+  {
+    "id": "bicep-curl-cable",
+    "name": "Bicep Curl (Cable)",
+    "category": "Biceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/bicep_curl_cable.jpg"
+  },
+  {
+    "id": "bicep-curl-dumbbell",
+    "name": "Bicep Curl (Dumbbell)",
+    "category": "Biceps",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/bicep_curl_dumbbell.jpg"
+  },
+  {
+    "id": "bicep-curl-machine",
+    "name": "Bicep Curl (Machine)",
+    "category": "Biceps",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/bicep_curl_machine.jpg"
+  },
+  {
+    "id": "bicep-curl-smith-machine",
+    "name": "Bicep Curl (Smith Machine)",
+    "category": "Biceps",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/frames/bicep_curl_smith_machine.jpg"
+  },
+  {
+    "id": "bicep-curl-incline-cable",
+    "name": "Bicep Curl Incline (Cable)",
+    "category": "Biceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/bicep_curl_incline_cable.jpg"
+  },
+  {
+    "id": "bicep-curl-reverse-grip-ez-bar",
+    "name": "Bicep Curl Reverse Grip (EZ Bar)",
+    "category": "Biceps",
+    "equipment": "EZ Bar",
+    "thumbnailUrl": "/machines/frames/bicep_curl_reverse_grip_ez_bar.jpg"
+  },
+  {
+    "id": "bicep-curl-standing-wide-grip-ez-bar",
+    "name": "Bicep Curl Standing Wide Grip (EZ Bar)",
+    "category": "Biceps",
+    "equipment": "EZ Bar",
+    "thumbnailUrl": "/machines/frames/bicep_curl_standing_wide_grip_ez_bar.jpg"
+  },
+  {
+    "id": "bicep-hammer-curl-incline-dumbbell",
+    "name": "Bicep Hammer Curl Incline (Dumbbell)",
+    "category": "Biceps",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/bicep_hammer_curl_incline_dumbbell.jpg"
+  },
+  {
+    "id": "bicep-inner-curl-incline-cable",
+    "name": "Bicep Inner Curl Incline (Cable)",
+    "category": "Biceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/bicep_inner_curl_incline_cable.jpg"
+  },
+  {
+    "id": "bicep-inner-curl-incline-dumbbell",
+    "name": "Bicep Inner Curl Incline (Dumbbell)",
+    "category": "Biceps",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/bicep_inner_curl_incline_dumbbell.jpg"
+  },
+  {
+    "id": "bicep-overhead-seated-curl-cable",
+    "name": "Bicep Overhead Seated Curl (Cable)",
+    "category": "Biceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/bicep_overhead_seated_curl_cable.jpg"
+  },
+  {
+    "id": "bicep-overhead-seated-curl-sz-bar-cable",
+    "name": "Bicep Overhead Seated Curl SZ Bar (Cable)",
+    "category": "Biceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/bicep_overhead_seated_curl_sz_bar_cable.jpg"
+  },
+  {
+    "id": "bicep-seated-curl-ez-bar",
+    "name": "Bicep Seated Curl (EZ Bar)",
+    "category": "Biceps",
+    "equipment": "EZ Bar",
+    "thumbnailUrl": "/machines/frames/bicep_seated_curl_ez_bar.jpg"
+  },
+  {
+    "id": "cross-body-hammer-curl",
+    "name": "Cross Body Hammer Curl",
+    "category": "Biceps",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/cross_body_hammer_curl.jpg"
+  },
+  {
+    "id": "drag-curl",
+    "name": "Drag Curl",
+    "category": "Biceps",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/drag_curl.jpg"
+  },
+  {
+    "id": "hammer-curl-dumbbell",
+    "name": "Hammer Curl (Dumbbell)",
+    "category": "Biceps",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/hammer_curl_dumbbell.jpg"
+  },
+  {
+    "id": "hammer-curl-to-press-dumbbell",
+    "name": "Hammer Curl to Press (Dumbbell)",
+    "category": "Biceps",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/hammer_curl_to_press_dumbbell.jpg"
+  },
+  {
+    "id": "kettlebell-curl",
+    "name": "Kettlebell Curl",
+    "category": "Biceps",
+    "equipment": "Kettlebell",
+    "thumbnailUrl": "/machines/frames/kettlebell_curl.jpg"
+  },
+  {
+    "id": "leg-curl-lying-machine",
+    "name": "Leg Curl Lying (Machine)",
+    "category": "Biceps",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/leg_curl_lying_machine.jpg"
+  },
+  {
+    "id": "leg-curl-seated-machine",
+    "name": "Leg Curl Seated (Machine)",
+    "category": "Biceps",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/leg_curl_seated_machine.jpg"
+  },
+  {
+    "id": "leg-curl-standing-machine",
+    "name": "Leg Curl Standing (Machine)",
+    "category": "Biceps",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/leg_curl_standing_machine.jpg"
+  },
+  {
+    "id": "lying-biceps-curl-cable",
+    "name": "Lying Biceps Curl (Cable)",
+    "category": "Biceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/lying_biceps_curl_cable.jpg"
+  },
+  {
+    "id": "preacher-curl-dumbbell",
+    "name": "Preacher Curl (Dumbbell)",
+    "category": "Biceps",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/preacher_curl_dumbbell.jpg"
+  },
+  {
+    "id": "preacher-curl-machine-2",
+    "name": "Preacher Curl (Machine 2)",
+    "category": "Biceps",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/preacher_curl_machine_2.jpg"
+  },
+  {
+    "id": "preacher-curl-machine",
+    "name": "Preacher Curl (Machine)",
+    "category": "Biceps",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/preacher_curl_machine.jpg"
+  },
+  {
+    "id": "preacher-curl-reverse-grip-ez-bar",
+    "name": "Preacher Curl Reverse Grip (EZ Bar)",
+    "category": "Biceps",
+    "equipment": "EZ Bar",
+    "thumbnailUrl": "/machines/frames/preacher_curl_reverse_grip_ez_bar.jpg"
+  },
+  {
+    "id": "preacher-curl-standing-ez-bar",
+    "name": "Preacher Curl Standing (EZ Bar)",
+    "category": "Biceps",
+    "equipment": "EZ Bar",
+    "thumbnailUrl": "/machines/frames/preacher_curl_standing_ez_bar.jpg"
+  },
+  {
+    "id": "reverse-curl-barbell",
+    "name": "Reverse Curl (Barbell)",
+    "category": "Biceps",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/reverse_curl_barbell.jpg"
+  },
+  {
+    "id": "reverse-curl-cable",
+    "name": "Reverse Curl (Cable)",
+    "category": "Biceps",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/reverse_curl_cable.jpg"
+  },
+  {
+    "id": "reverse-curl-dumbbell",
+    "name": "Reverse Curl (Dumbbell)",
+    "category": "Biceps",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/reverse_curl_dumbbell.jpg"
+  },
+  {
+    "id": "spider-curl-barbell",
+    "name": "Spider Curl (Barbell)",
+    "category": "Biceps",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/spider_curl_barbell.jpg"
+  },
+  {
+    "id": "spider-curl-dumbbell",
+    "name": "Spider Curl (Dumbbell)",
+    "category": "Biceps",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/spider_curl_dumbbell.jpg"
+  },
+  {
+    "id": "spider-curl-ez-bar",
+    "name": "Spider Curl (EZ Bar)",
+    "category": "Biceps",
+    "equipment": "EZ Bar",
+    "thumbnailUrl": "/machines/frames/spider_curl_ez_bar.jpg"
+  },
+  {
+    "id": "zottman-curl-dumbbell",
+    "name": "Zottman Curl (Dumbbell)",
+    "category": "Biceps",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/zottman_curl_dumbbell.jpg"
+  },
+  {
+    "id": "belt-squat",
+    "name": "Belt Squat",
+    "category": "Legs",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/belt_squat.jpg"
+  },
+  {
+    "id": "box-squat",
+    "name": "Box Squat",
+    "category": "Legs",
+    "equipment": "Box",
+    "thumbnailUrl": "/machines/frames/box_squat.jpg"
+  },
+  {
+    "id": "bulgarian-split-squat-barbell",
+    "name": "Bulgarian Split Squat (Barbell)",
+    "category": "Legs",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/bulgarian_split_squat_barbell.jpg"
+  },
+  {
+    "id": "bulgarian-split-squat-dumbbell",
+    "name": "Bulgarian Split Squat (Dumbbell)",
+    "category": "Legs",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/bulgarian_split_squat_dumbbell.jpg"
+  },
+  {
+    "id": "bulgarian-split-squat-smith-machine",
+    "name": "Bulgarian Split Squat (Smith Machine)",
+    "category": "Legs",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/frames/bulgarian_split_squat_smith_machine.jpg"
+  },
+  {
+    "id": "calf-raise-barbell",
+    "name": "Calf Raise (Barbell)",
+    "category": "Legs",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/calf_raise_barbell.jpg"
+  },
+  {
+    "id": "calf-raise-dumbbell",
+    "name": "Calf Raise (Dumbbell)",
+    "category": "Legs",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/calf_raise_dumbbell.jpg"
+  },
+  {
+    "id": "calf-raise-smith-machine",
+    "name": "Calf Raise (Smith Machine)",
+    "category": "Legs",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/frames/calf_raise_smith_machine.jpg"
+  },
+  {
+    "id": "calf-raise-leg-press",
+    "name": "Calf Raise Leg Press",
+    "category": "Legs",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/calf_raise_leg_press.jpg"
+  },
+  {
+    "id": "calf-raise-seated-dumbbell",
+    "name": "Calf Raise Seated (Dumbbell)",
+    "category": "Legs",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/calf_raise_seated_dumbbell.jpg"
+  },
+  {
+    "id": "calf-raise-seated-machine",
+    "name": "Calf Raise Seated (Machine)",
+    "category": "Legs",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/calf_raise_seated_machine.jpg"
+  },
+  {
+    "id": "curtsy-lunge-goblet-dumbbell",
+    "name": "Curtsy Lunge Goblet (Dumbbell)",
+    "category": "Legs",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/curtsy_lunge_goblet_dumbbell.jpg"
+  },
+  {
+    "id": "front-squat-cable",
+    "name": "Front Squat (Cable)",
+    "category": "Legs",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/front_squat_cable.jpg"
+  },
+  {
+    "id": "front-squat-dumbbell",
+    "name": "Front Squat (Dumbbell)",
+    "category": "Legs",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/front_squat_dumbbell.jpg"
+  },
+  {
+    "id": "front-squat-safety-bar",
+    "name": "Front Squat (Safety Bar)",
+    "category": "Legs",
+    "equipment": "Safety Bar",
+    "thumbnailUrl": "/machines/frames/front_squat_safety_bar.jpg"
+  },
+  {
+    "id": "front-squat-smith-machine",
+    "name": "Front Squat (Smith Machine)",
+    "category": "Legs",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/frames/front_squat_smith_machine.jpg"
+  },
+  {
+    "id": "front-squat-pin-barbell",
+    "name": "Front Squat Pin (Barbell)",
+    "category": "Legs",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/front_squat_pin_barbell.jpg"
+  },
+  {
+    "id": "glute-kickback-cable",
+    "name": "Glute Kickback (Cable)",
+    "category": "Legs",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/glute_kickback_cable.jpg"
+  },
+  {
+    "id": "hack-squat-machine",
+    "name": "Hack Squat (Machine)",
+    "category": "Legs",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/hack_squat_machine.jpg"
+  },
+  {
+    "id": "hip-abduction-cable",
+    "name": "Hip Abduction (Cable)",
+    "category": "Legs",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/hip_abduction_cable.jpg"
+  },
+  {
+    "id": "hip-abduction-machine",
+    "name": "Hip Abduction (Machine)",
+    "category": "Legs",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/hip_abduction_machine.jpg"
+  },
+  {
+    "id": "hip-adduction-cable",
+    "name": "Hip Adduction (Cable)",
+    "category": "Legs",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/hip_adduction_cable.jpg"
+  },
+  {
+    "id": "hip-adduction-machine",
+    "name": "Hip Adduction (Machine)",
+    "category": "Legs",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/hip_adduction_machine.jpg"
+  },
+  {
+    "id": "hip-thrust-machine",
+    "name": "Hip Thrust (Machine)",
+    "category": "Legs",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/hip_thrust_machine.jpg"
+  },
+  {
+    "id": "hip-thrust-smith-machine",
+    "name": "Hip Thrust (Smith Machine)",
+    "category": "Legs",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/frames/hip_thrust_smith_machine.jpg"
+  },
+  {
+    "id": "kettlebell-front-squat",
+    "name": "Kettlebell Front Squat",
+    "category": "Legs",
+    "equipment": "Kettlebell",
+    "thumbnailUrl": "/machines/frames/kettlebell_front_squat.jpg"
+  },
+  {
+    "id": "kettlebell-goblet-squat",
+    "name": "Kettlebell Goblet Squat",
+    "category": "Legs",
+    "equipment": "Kettlebell",
+    "thumbnailUrl": "/machines/frames/kettlebell_goblet_squat.jpg"
+  },
+  {
+    "id": "lateral-step-up-dumbbell",
+    "name": "Lateral Step Up (Dumbbell)",
+    "category": "Legs",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/lateral_step_up_dumbbell.jpg"
+  },
+  {
+    "id": "lateral-step-up-smith-machine",
+    "name": "Lateral Step Up (Smith Machine)",
+    "category": "Legs",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/frames/lateral_step_up_smith_machine.jpg"
+  },
+  {
+    "id": "leg-press",
+    "name": "Leg Press",
+    "category": "Legs",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/leg_press.jpg"
+  },
+  {
+    "id": "leg-press-single-leg",
+    "name": "Leg Press Single Leg",
+    "category": "Legs",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/leg_press_single_leg.jpg"
+  },
+  {
+    "id": "lunge-barbell",
+    "name": "Lunge (Barbell)",
+    "category": "Legs",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/lunge_barbell.jpg"
+  },
+  {
+    "id": "lunge-dumbbell",
+    "name": "Lunge (Dumbbell)",
+    "category": "Legs",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/lunge_dumbbell.jpg"
+  },
+  {
+    "id": "pendulum-squat",
+    "name": "Pendulum Squat",
+    "category": "Legs",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/pendulum_squat.jpg"
+  },
+  {
+    "id": "plyo-squat-dumbbell",
+    "name": "Plyo Squat (Dumbbell)",
+    "category": "Legs",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/plyo_squat_dumbbell.jpg"
+  },
+  {
+    "id": "romanian-deadlift-dumbbell",
+    "name": "Romanian Deadlift (Dumbbell)",
+    "category": "Legs",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/romanian_deadlift_dumbbell.jpg"
+  },
+  {
+    "id": "single-leg-glute-bridge-dumbbell",
+    "name": "Single Leg Glute Bridge (Dumbbell)",
+    "category": "Legs",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/single_leg_glute_bridge_dumbbell.jpg"
+  },
+  {
+    "id": "split-squat",
+    "name": "Split Squat",
+    "category": "Legs",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/split_squat.jpg"
+  },
+  {
+    "id": "squat-dumbbell",
+    "name": "Squat (Dumbbell)",
+    "category": "Legs",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/squat_dumbbell.jpg"
+  },
+  {
+    "id": "squat-machine-2",
+    "name": "Squat (Machine 2)",
+    "category": "Legs",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/squat_machine_2.jpg"
+  },
+  {
+    "id": "squat-machine",
+    "name": "Squat (Machine)",
+    "category": "Legs",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/squat_machine.jpg"
+  },
+  {
+    "id": "squat-smith-machine",
+    "name": "Squat (Smith Machine)",
+    "category": "Legs",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/frames/squat_smith_machine.jpg"
+  },
+  {
+    "id": "squat-reverse-machine",
+    "name": "Squat Reverse (Machine)",
+    "category": "Legs",
+    "equipment": "Machine",
+    "thumbnailUrl": "/machines/frames/squat_reverse_machine.jpg"
+  },
+  {
+    "id": "step-up-barbell",
+    "name": "Step Up (Barbell)",
+    "category": "Legs",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/step_up_barbell.jpg"
+  },
+  {
+    "id": "step-up-dumbbell",
+    "name": "Step Up (Dumbbell)",
+    "category": "Legs",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/step_up_dumbbell.jpg"
+  },
+  {
+    "id": "sumo-romanian-deadlift-barbell",
+    "name": "Sumo Romanian Deadlift (Barbell)",
+    "category": "Legs",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/sumo_romanian_deadlift_barbell.jpg"
+  },
+  {
+    "id": "sumo-squat-dumbbell",
+    "name": "Sumo Squat (Dumbbell)",
+    "category": "Legs",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/sumo_squat_dumbbell.jpg"
+  },
+  {
+    "id": "zercher-squat",
+    "name": "Zercher Squat",
+    "category": "Legs",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/zercher_squat.jpg"
+  },
+  {
+    "id": "decline-crunch",
+    "name": "Decline Crunch",
+    "category": "Abs",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/decline_crunch.jpg"
+  },
+  {
+    "id": "kettlebell-windmill",
+    "name": "Kettlebell Windmill",
+    "category": "Abs",
+    "equipment": "Kettlebell",
+    "thumbnailUrl": "/machines/frames/kettlebell_windmill.jpg"
+  },
+  {
+    "id": "oblique-knee-raise-hanging",
+    "name": "Oblique Knee Raise Hanging",
+    "category": "Abs",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/oblique_knee_raise_hanging.jpg"
+  },
+  {
+    "id": "oblique-twist-cable",
+    "name": "Oblique Twist (Cable)",
+    "category": "Abs",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/oblique_twist_cable.jpg"
+  },
+  {
+    "id": "pallof-press-band",
+    "name": "Pallof Press (Band)",
+    "category": "Abs",
+    "equipment": "Band",
+    "thumbnailUrl": "/machines/frames/pallof_press_band.jpg"
+  },
+  {
+    "id": "russian-twist-weighted",
+    "name": "Russian Twist Weighted",
+    "category": "Abs",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/russian_twist_weighted.jpg"
+  },
+  {
+    "id": "straight-leg-raise-captains-chair",
+    "name": "Straight Leg Raise Captains Chair",
+    "category": "Abs",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/straight_leg_raise_captains_chair.jpg"
+  },
+  {
+    "id": "twisting-sit-up-incline-bodyweight",
+    "name": "Twisting Sit Up Incline (Bodyweight)",
+    "category": "Abs",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/twisting_sit_up_incline_bodyweight.jpg"
+  },
+  {
+    "id": "wrist-roller",
+    "name": "Wrist Roller",
+    "category": "Forearms",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/wrist_roller.jpg"
+  },
+  {
+    "id": "battle-ropes",
+    "name": "Battle Ropes",
+    "category": "Cardio",
+    "equipment": "Cardio Machine",
+    "thumbnailUrl": "/machines/frames/battle_ropes.jpg"
+  },
+  {
+    "id": "axle-deadlift",
+    "name": "Axle Deadlift",
+    "category": "Full Body",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/axle_deadlift.jpg"
+  },
+  {
+    "id": "clean-barbell",
+    "name": "Clean (Barbell)",
+    "category": "Full Body",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/clean_barbell.jpg"
+  },
+  {
+    "id": "clean-and-jerk",
+    "name": "Clean And Jerk",
+    "category": "Full Body",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/clean_and_jerk.jpg"
+  },
+  {
+    "id": "deadlift-smith-machine",
+    "name": "Deadlift (Smith Machine)",
+    "category": "Full Body",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/frames/deadlift_smith_machine.jpg"
+  },
+  {
+    "id": "farmers-walk",
+    "name": "Farmers Walk",
+    "category": "Full Body",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/farmers_walk.jpg"
+  },
+  {
+    "id": "kettlebell-deadlift",
+    "name": "Kettlebell Deadlift",
+    "category": "Full Body",
+    "equipment": "Kettlebell",
+    "thumbnailUrl": "/machines/frames/kettlebell_deadlift.jpg"
+  },
+  {
+    "id": "rack-pull",
+    "name": "Rack Pull",
+    "category": "Full Body",
+    "equipment": "Bodyweight",
+    "thumbnailUrl": "/machines/frames/rack_pull.jpg"
+  },
+  {
+    "id": "stiff-leg-deadlift-barbell",
+    "name": "Stiff Leg Deadlift (Barbell)",
+    "category": "Full Body",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/stiff_leg_deadlift_barbell.jpg"
+  },
+  {
+    "id": "stiff-leg-deadlift-dumbbell",
+    "name": "Stiff Leg Deadlift (Dumbbell)",
+    "category": "Full Body",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/stiff_leg_deadlift_dumbbell.jpg"
+  },
+  {
+    "id": "sumo-deadlift-barbell",
+    "name": "Sumo Deadlift (Barbell)",
+    "category": "Full Body",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/sumo_deadlift_barbell.jpg"
+  },
+  {
+    "id": "sumo-deadlift-smith-machine",
+    "name": "Sumo Deadlift (Smith Machine)",
+    "category": "Full Body",
+    "equipment": "Smith Machine",
+    "thumbnailUrl": "/machines/frames/sumo_deadlift_smith_machine.jpg"
+  },
+  {
+    "id": "thruster-dumbbell",
+    "name": "Thruster (Dumbbell)",
+    "category": "Full Body",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/thruster_dumbbell.jpg"
+  },
+  {
+    "id": "trap-bar-deadlift",
+    "name": "Trap Bar Deadlift",
+    "category": "Full Body",
+    "equipment": "Trap Bar",
+    "thumbnailUrl": "/machines/frames/trap_bar_deadlift.jpg"
+  },
+  {
+    "id": "around-the-world",
+    "name": "Around the World",
+    "category": "Other",
+    "equipment": "None",
+    "thumbnailUrl": "/machines/frames/around_the_world.jpg"
+  },
+  {
+    "id": "decline-hammer-press-dumbbell",
+    "name": "Decline Hammer Press (Dumbbell)",
+    "category": "Other",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/decline_hammer_press_dumbbell.jpg"
+  },
+  {
+    "id": "decline-hammer-press-one-arm-dumbbell",
+    "name": "Decline Hammer Press One Arm (Dumbbell)",
+    "category": "Other",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/decline_hammer_press_one_arm_dumbbell.jpg"
+  },
+  {
+    "id": "dip",
+    "name": "Dip",
+    "category": "Other",
+    "equipment": "None",
+    "thumbnailUrl": "/machines/frames/dip.jpg"
+  },
+  {
+    "id": "double-kettlebell-swing",
+    "name": "Double Kettlebell Swing",
+    "category": "Other",
+    "equipment": "None",
+    "thumbnailUrl": "/machines/frames/double_kettlebell_swing.jpg"
+  },
+  {
+    "id": "good-morning-barbell",
+    "name": "Good Morning (Barbell)",
+    "category": "Other",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/good_morning_barbell.jpg"
+  },
+  {
+    "id": "hammer-press-lying-hands-narrow-dumbbell",
+    "name": "Hammer Press Lying Hands Narrow (Dumbbell)",
+    "category": "Other",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/hammer_press_lying_hands_narrow_dumbbell.jpg"
+  },
+  {
+    "id": "hammer-press-lying-hands-wide-dumbbell",
+    "name": "Hammer Press Lying Hands Wide (Dumbbell)",
+    "category": "Other",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/hammer_press_lying_hands_wide_dumbbell.jpg"
+  },
+  {
+    "id": "incline-hammer-press-band",
+    "name": "Incline Hammer Press (Band)",
+    "category": "Other",
+    "equipment": "Band",
+    "thumbnailUrl": "/machines/frames/incline_hammer_press_band.jpg"
+  },
+  {
+    "id": "incline-hammer-press-dumbbell",
+    "name": "Incline Hammer Press (Dumbbell)",
+    "category": "Other",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/incline_hammer_press_dumbbell.jpg"
+  },
+  {
+    "id": "incline-hammer-press-kettlebell",
+    "name": "Incline Hammer Press (Kettlebell)",
+    "category": "Other",
+    "equipment": "Kettlebell",
+    "thumbnailUrl": "/machines/frames/incline_hammer_press_kettlebell.jpg"
+  },
+  {
+    "id": "incline-hammer-press-one-arm-dumbbell",
+    "name": "Incline Hammer Press One Arm (Dumbbell)",
+    "category": "Other",
+    "equipment": "Dumbbell",
+    "thumbnailUrl": "/machines/frames/incline_hammer_press_one_arm_dumbbell.jpg"
+  },
+  {
+    "id": "kettlebell-halo",
+    "name": "Kettlebell Halo",
+    "category": "Other",
+    "equipment": "Kettlebell",
+    "thumbnailUrl": "/machines/frames/kettlebell_halo.jpg"
+  },
+  {
+    "id": "landmine-180",
+    "name": "Landmine 180",
+    "category": "Other",
+    "equipment": "Landmine",
+    "thumbnailUrl": "/machines/frames/landmine_180.jpg"
+  },
+  {
+    "id": "landmine-press",
+    "name": "Landmine Press",
+    "category": "Other",
+    "equipment": "Landmine",
+    "thumbnailUrl": "/machines/frames/landmine_press.jpg"
+  },
+  {
+    "id": "overhead-z-press-barbell",
+    "name": "Overhead Z Press (Barbell)",
+    "category": "Other",
+    "equipment": "Barbell",
+    "thumbnailUrl": "/machines/frames/overhead_z_press_barbell.jpg"
+  },
+  {
+    "id": "pull-through-cable",
+    "name": "Pull Through (Cable)",
+    "category": "Other",
+    "equipment": "Cable",
+    "thumbnailUrl": "/machines/frames/pull_through_cable.jpg"
+  },
+  {
+    "id": "sled-push",
+    "name": "Sled Push",
+    "category": "Other",
+    "equipment": "Sled",
+    "thumbnailUrl": "/machines/frames/sled_push.jpg"
+  }
+]

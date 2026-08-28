@@ -1,0 +1,9 @@
+Flask==3.1.3
+# >=12.0 rather than an exact pin: Pillow 11.0.0 predates Python 3.14 and has
+# no prebuilt Windows wheel for it, so `pip install` tries to compile from
+# source and fails on missing zlib headers. Pillow 12.x ships wheels for
+# Python 3.9-3.14 (Windows/macOS/Linux), so this installs cleanly regardless
+# of which supported Python version you're on. Only Image/ImageDraw/ImageFont
+# are used here, and none of their APIs changed in a way that affects this
+# file between 11.x and 12.x.
+Pillow>=12.0
